@@ -1,5 +1,5 @@
 <template>
-  <VitePwaManifest />
+  <VitePwaManifest></VitePwaManifest>
   <div class="container mx-auto">
     <slot></slot>
   </div>
