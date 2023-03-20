@@ -43,4 +43,11 @@ export default defineNuxtConfig({
       type: "module",
     },
   },
+
+  nitro: {
+    plugins: ["~/server/index.ts"],
+  },
+  runtimeConfig: {
+    mongodbUrl: process.env.MONGODB_URL,
+  },
 });
