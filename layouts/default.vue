@@ -1,5 +1,6 @@
 <template>
   <div class="container mx-auto">
+    <TheNavbar />
     <slot></slot>
   </div>
 </template>
