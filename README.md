@@ -1,4 +1,4 @@
-Setup with Tailwind CSS, SCSS, Vite-PWA, Pinia, Nuxt-Icon, Mongoose 
+Setup with Tailwind CSS, SCSS, Pinia, Nuxt-Icon, Mongoose 
 
 
 ## Setup
