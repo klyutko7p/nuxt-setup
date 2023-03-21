@@ -5,7 +5,7 @@
 //   try {
 //     const config = useRuntimeConfig();
 //     mongoose.connect(config.mongodbUrl);
-//     console.log("Mongo connected");
+//     console.log("MongoDB is connected");
 //   } catch (error) {
 //     console.log(error);
 //   }
