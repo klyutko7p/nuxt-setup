@@ -1,15 +1,7 @@
-// import { Schema, model } from "mongoose"
+import { User } from "~~/server/models/User";
 
-// const UserSchema = new Schema({
-//     email: String,
-//     name: String,
-// })
+export default defineEventHandler(async (event) => {
+  const users = await User.find();
 
-// export const User = model<any>('User', UserSchema)
-
-// export default defineEventHandler(async (event) => {
-
-//     const users = await User.find()
-
-//     return { users }
-// })
+  return { users };
+});

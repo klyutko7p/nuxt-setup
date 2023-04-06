@@ -1,4 +1,7 @@
 <template>
+    <Head>
+        <Title>Home</Title>
+    </Head>
     <div>
         <h1>Home Page</h1>
     </div>
@@ -8,6 +11,4 @@
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
