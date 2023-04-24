@@ -1,9 +1,6 @@
 <template>
-    <Head>
-        <Title>Home</Title>
-    </Head>
     <div>
-        <h1>Home Page</h1>sasgsa
+        <h1>is search</h1>
     </div>
 </template>
 

@@ -6,6 +6,7 @@ module.exports = {
         "secondary-color": "var(--secondary-color)",
         "muted-color": "var(--muted-color)",
         "hover-color": "var(--hover-color)",
+        "gray-color": "var(--gray-color)",
       },
     },
   },
